@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\magicvilla_villaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\magicvilla_villaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\data\\villastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\data\\villastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Program.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:52:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MagicVilla_VillaAPI.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.http",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\MagicVilla_VillaAPI.http",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.http",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\MagicVilla_VillaAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-12T10:50:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\appsettings.json",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T10:50:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T10:50:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VillaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\DTO\\VillaDto.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Models\\DTO\\VillaDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\DTO\\VillaDto.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Models\\DTO\\VillaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:59:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Models\\Villa.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\Villa.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Models\\Villa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:56:58.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillaAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:53:36.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VillaStore.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Data\\VillaStore.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Data\\VillaStore.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Data\\VillaStore.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Data\\VillaStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:13:14.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
