@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\migrations\\20240818114406_addvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\migrations\\20240818114406_addvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\migrations\\20240818132014_seedvillatablewithcreateddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\migrations\\20240818132014_seedvillatablewithcreateddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\models\\dto\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\models\\dto\\villaupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\migrations\\20240818131714_seedvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\migrations\\20240818131714_seedvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|c:\\users\\lenovo\\source\\repos\\magicvilla\\magicvilla_villaapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3CD5F13-68A6-4797-956C-20328E1BAE5D}|MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj|solutionrelative:magicvilla_villaapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240818114406_AddVillaTable.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818114406_AddVillaTable.cs",
-              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Migrations\\20240818114406_AddVillaTable.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818114406_AddVillaTable.cs",
-              "RelativeToolTip": "MagicVilla_VillaAPI\\Migrations\\20240818114406_AddVillaTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:50:25.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20240818132014_SeedVillaTableWithCreatedDate.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818132014_SeedVillaTableWithCreatedDate.cs",
-              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Migrations\\20240818132014_SeedVillaTableWithCreatedDate.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818132014_SeedVillaTableWithCreatedDate.cs",
-              "RelativeToolTip": "MagicVilla_VillaAPI\\Migrations\\20240818132014_SeedVillaTableWithCreatedDate.cs",
+              "Title": "VillaUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Models\\DTO\\VillaUpdateDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:50:23.345Z",
+              "WhenOpened": "2024-08-21T08:04:37.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20240818131714_SeedVillaTable.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818131714_SeedVillaTable.cs",
-              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Migrations\\20240818131714_SeedVillaTable.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Migrations\\20240818131714_SeedVillaTable.cs",
-              "RelativeToolTip": "MagicVilla_VillaAPI\\Migrations\\20240818131714_SeedVillaTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Program.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:50:20.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MagicVilla_VillaAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:50:08.328Z",
+              "WhenOpened": "2024-08-20T20:24:21.837Z",
               "EditorCaption": ""
             },
             {
@@ -96,9 +66,22 @@
               "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
               "RelativeToolTip": "MagicVilla_VillaAPI\\Controllers\\VillaAPIController.cs",
-              "ViewState": "AQIAAI0AAAAAAAAAAAAMwJcAAABOAAAA",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAYwLgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T12:33:35.086Z",
+              "WhenOpened": "2024-08-21T07:59:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "MagicVilla_VillaAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MappingConfig.cs",
+              "RelativeToolTip": "MagicVilla_VillaAPI\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:03:36.68Z",
               "EditorCaption": ""
             }
           ]
